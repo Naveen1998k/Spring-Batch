@@ -23,4 +23,5 @@ public class Customer {
     private String contactNo;
     private String country;
     private String dob;
+    private String age;
 }
